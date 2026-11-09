@@ -1,7 +1,7 @@
-# Lists CSS
-
 > [!TIP]
 > Use `::marker` and `list-style-type` instead.
+
+# Lists CSS
 
 Simple CSS Grid/Subgrid based list styling.
 
